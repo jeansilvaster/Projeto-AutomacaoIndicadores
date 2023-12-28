@@ -1,4 +1,4 @@
-### Projeto: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
+### Proposta: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
 
 ## Descrição:
 Imagine que você trabalha em uma grande rede de lojas de roupas com 25 lojas espalhadas por todo o Brasil.
